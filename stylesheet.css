@@ -1,4 +1,7 @@
-font-family: Courier New, monospace;
+body{
+  font-family: Courier New, monospace;
+}
+
 .topbar{
   display: flex;
   flex-direction: row;
