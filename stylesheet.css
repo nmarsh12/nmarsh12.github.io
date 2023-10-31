@@ -1,0 +1,8 @@
+font-family: Georgia, serif;
+.topbar{
+  display: flex;
+  flex-direction: row;
+}
+.links-card{
+  display:flex;
+  
